@@ -1,0 +1,22 @@
+{
+  "name": "javascriptpractise",
+  "version": "1.0.0",
+  "description": "scrach",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm sucess test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doEpicShit0305/javascriptPractise.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "surbhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doEpicShit0305/javascriptPractise/issues"
+  },
+  "homepage": "https://github.com/doEpicShit0305/javascriptPractise#readme"
+}
