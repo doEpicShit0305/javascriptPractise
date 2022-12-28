@@ -4,6 +4,7 @@
 const count = document.querySelector(".count");
 const buttons = document.querySelector(".buttons");
 
+console.log('testtttttt');
 buttons.addEventListener("click", (e) => {
   if (e.target.classList.contains("add")) {
     count.innerHTML++;
