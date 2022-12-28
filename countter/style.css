@@ -34,7 +34,7 @@ img {
   width: 100%;
 }
 
-.container {
+.counterContainer {
   max-width: 900px;
   margin: 0 auto;
   padding: 0 20px;
@@ -72,6 +72,9 @@ img {
   outline: none;
   border-radius: 3px;
   cursor: pointer;
+}
+.Buttons {
+  background-color: #222831;
 }
 
 button.subtract {
